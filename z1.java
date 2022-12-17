@@ -1,7 +1,3 @@
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import javax.annotation.processing.FilerException;
 
 //Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
 
